@@ -25,7 +25,3 @@ A simple 2D Rock-Paper-Scissors game built in Unity `2023.2.12f1`.
 
 ## 📷 Screenshot (Add your image)
 ![Screenshot](screenshot.png)
-
----
-
-> Created with ❤️ by [@mayankkapadi](https://github.com/mayankkapadi)
