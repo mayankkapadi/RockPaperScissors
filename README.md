@@ -23,5 +23,5 @@ A simple 2D Rock-Paper-Scissors game built in Unity `2023.2.12f1`.
 - `ProjectSettings/` — Unity-specific configurations
 - `.gitignore` — Prevents unnecessary Unity-generated files from bloating the repo
 
-## 📷 Screenshot (Add your image)
+## 📷 Screenshot
 ![Screenshot](screenshot.png)
