@@ -75,12 +75,6 @@ RockPaperScissors/
 
 ---
 
-## 🙋‍♂️ Author
-
-Made by [@mayankkapadi](https://github.com/mayankkapadi)
-
----
-
 ## 📄 License
 
 This project is licensed under the [MIT License](LICENSE).
