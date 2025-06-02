@@ -1,4 +1,4 @@
-# 🪨📄✂️ Rock Paper Scissors (Unity 2D)
+# ✊📄✂️ Rock Paper Scissors (Unity 2D)
 
 A simple 2D Rock-Paper-Scissors game built in Unity `2023.2.12f1`.
 
