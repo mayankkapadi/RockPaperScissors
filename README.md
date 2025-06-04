@@ -69,12 +69,7 @@ RockPaperScissors/
 
 ---
 
-## 📷 Screenshot
+## 📷 Game Snippet
 
 ![Screenshot](screenshot.png)
 
----
-
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
